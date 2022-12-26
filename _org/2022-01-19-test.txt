@@ -1,0 +1,31 @@
+#    -*- mode: org -*-
+#+TITLE:    A Test Post 
+# Hi-lock: (("{.+?}" (0 (quote hi-yellow) prepend)))
+# Hi-lock: (("^.*:noexport:.*$" (0 (quote rnp-noexport) prepend)))
+#+AUTHOR:    Rajgopal Patil
+#+EMAIL:     rajnpatil@gmail.com
+#+FILETAGS:  ::
+#+DESCRIPTION: 
+#+OPTIONS: toc:nil author:nil num:nil
+#+ODT_STYLES_FILE: "~/Documents/myWork/Default-Template-for-org-exported-files.ott"
+#+EXCLUDE_TAGS: noexport
+#+ZTAGS: #zetteldeft-tag
+#+DATE:  Thursday 20^{th} January 2022
+#+begin_export html
+---
+layout: post
+title:  "New org post"
+date:   2022-01-19 08:27:33 +0530
+categories: birds
+---
+#+end_export
+
+Pellentesque tristique imperdiet tortor.  
+
+Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget, lacus.  Sed diam.  Praesent fermentum tempor tellus.  Nullam tempus.  Mauris ac felis vel velit tristique imperdiet.  Donec at pede.  Etiam vel neque nec dui dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet tortor.  Nam euismod tellus id erat.
+
+* Pellentesque tristique imperdiet tortor.
+* Donec pretium posuere tellus.
+* Mauris ac felis vel velit tristique imperdiet.
+* Nullam eu ante vel est convallis dignissim.
+* Nullam rutrum.

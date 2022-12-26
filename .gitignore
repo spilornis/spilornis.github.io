@@ -1,0 +1,4 @@
+*.DS_Store
+_site
+/_posts/2022-01-19-test.html
+*-cache/

@@ -1,0 +1,60 @@
+#    -*- mode: org -*-
+#+TITLE:  Black-winged Kite, A 
+# Hi-lock: (("{.+?}" (0 (quote hi-yellow) prepend)))
+# Hi-lock: (("^.*:noexport:.*$" (0 (quote rnp-noexport) prepend)))
+#+AUTHOR:    Rajgopal Patil
+#+EMAIL:     go.rajnpatil@gmail.com
+#+FILETAGS:  :birdcalls:
+#+DESCRIPTION: 
+#+OPTIONS: toc:nil author:nil num:nil
+#+ODT_STYLES_FILE: "~/Documents/myWork/Default-Template-for-org-exported-files.ott"
+#+EXCLUDE_TAGS: noexport
+#+ZTAGS: #raptor #pune #maharashtra
+#+DATE:  Thursday 20^{th} January 2022
+#+begin_export html
+---
+layout: post
+title:  "Calls of Black-winged Kite"
+date:   2022-01-20 08:27:33 +0530
+categories: birds
+tags:  [bird_calls,  raptors]
+---
+#+end_export
+
+#+DOWNLOADED: file:///tmp/dnd_file/Black-shouldered_Kite_(Elanus_caeruleus)_in_Hyderabad_W_IMG_4418.jpg @ 2022-01-20 15:54:53
+[[img:2022-01-20_15-54-53_Black-shouldered_Kite_(Elanus_caeruleus)_in_Hyderabad_W_IMG_4418.jpg][Black-winged Kite]]
+Photo © J.M. Garg
+
+
+The Black-winged Kite is quite common in the open areas around Pune. I see this
+pretty delightful bird on the electric cables alongside the roads, or
+hovering over open areas, hill slopes, scanning for any rodent, lizard or even
+grasshoppers. But, I realized that over so many years I hadn't heard it giving any
+kind of call. It is a pretty quiet bird, hardly giving a squeak.
+
+
+So, I decided to check online to see if there were any recordings of it's calls.
+As expected there were not many but people had indeed recorded it's calls.
+
+
+Again skimming through the field guides confirmed that I haven't been observant enough. 
+
+Ali & Ripley
+
+
+
+Rassmussen
+
+Calls include thin, peeping whistles and screeches; whistle types given in
+series from perch include a clear strongly upslurred /*fwIT!, fwIT!*/... (pitch
+2-4KHz, note 0.15s, 1 note/s; Africa-CC), the series rising slightly in pitch
+and strength;
+
+a slightly upslurred, nearly disyllabic *pWEeIP,/pWEIP* ...(pitch 2.5-3KHz)
+
+The birds of the world website explains that the vocalizations are given most
+frequently in courtship and around nest. That's probably the reason why most
+birders would never get to hear it unless they are witness to their courtship or
+nesting behavior. Mental note: got to see this sometime soon.
+
+
